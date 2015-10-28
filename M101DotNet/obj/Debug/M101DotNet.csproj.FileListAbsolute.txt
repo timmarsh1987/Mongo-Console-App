@@ -9,3 +9,14 @@ C:\Users\Tim\Documents\Visual Studio 2015\Projects\M101DotNet\M101DotNet\bin\Deb
 C:\Users\Tim\Documents\Visual Studio 2015\Projects\M101DotNet\M101DotNet\obj\Debug\M101DotNet.csprojResolveAssemblyReference.cache
 C:\Users\Tim\Documents\Visual Studio 2015\Projects\M101DotNet\M101DotNet\obj\Debug\M101DotNet.exe
 C:\Users\Tim\Documents\Visual Studio 2015\Projects\M101DotNet\M101DotNet\obj\Debug\M101DotNet.pdb
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\Mongo-Console-App\M101DotNet\bin\Debug\M101DotNet.exe.config
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\Mongo-Console-App\M101DotNet\obj\Debug\M101DotNet.exe
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\Mongo-Console-App\M101DotNet\obj\Debug\M101DotNet.pdb
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\Mongo-Console-App\M101DotNet\bin\Debug\M101DotNet.exe
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\Mongo-Console-App\M101DotNet\bin\Debug\M101DotNet.pdb
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\Mongo-Console-App\M101DotNet\bin\Debug\MongoDB.Bson.dll
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\Mongo-Console-App\M101DotNet\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\Mongo-Console-App\M101DotNet\bin\Debug\MongoDB.Driver.dll
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\Mongo-Console-App\M101DotNet\bin\Debug\MongoDB.Bson.xml
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\Mongo-Console-App\M101DotNet\bin\Debug\MongoDB.Driver.xml
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\Mongo-Console-App\M101DotNet\obj\Debug\M101DotNet.csprojResolveAssemblyReference.cache
